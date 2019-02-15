@@ -1,0 +1,8 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shldhee/nuber-server.git",
+  "author": "duckhee <shldhee@yahoo.co.kr>",
+  "license": "MIT"
+}
